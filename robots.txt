@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cohgahjai.fe4fun.com/sitemap.xml
